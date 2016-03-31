@@ -9,6 +9,6 @@ free-ssl
 2. http://www.wosign.com/
 3. https://www.globalsign.com/ssl/ssl-open-source/
 
-Unknown
+3 Month
 -----------
 1. https://letsencrypt.org/
